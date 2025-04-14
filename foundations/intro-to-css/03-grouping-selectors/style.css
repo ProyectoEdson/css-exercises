@@ -1,0 +1,11 @@
+.boton,.boton-no{
+    font-family: 'Helvatica' ,'Times New Roman', 'sans-serif';
+    font-size: 28px;
+}
+.boton{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.boton-no{
+    background-color: rgb(191, 255, 0);
+}
